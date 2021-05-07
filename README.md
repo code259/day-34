@@ -1,1 +1,3 @@
-# day-34
+# Day-34-Udemy
+
+Working with APIs in tkinter ...
